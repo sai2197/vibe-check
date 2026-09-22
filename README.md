@@ -3,7 +3,7 @@
 A high-fidelity, interactive single-page micro-frontend designed to engineer high-stakes user conversion funnels (securing a "Yes") with automated rejection-handling protocols. Built entirely using vanilla web technologies, this lightweight application explores programmatic particle simulations, asynchronous multi-stage UI states, and responsive layout constraints.
 
 ## 🚀 Live Demo
-See the app in action [here](https://papalu-preethi.netlify.app/)
+See the app in action [here](https://vibe-chck.netlify.app/)
 
 ---
 
